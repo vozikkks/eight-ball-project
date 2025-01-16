@@ -6,10 +6,10 @@ List of projects
 
 [project 3](https://github.com/vozikkks/js-learning-projects/blob/main/rock-paper-scissors.js): simple rock, paper, scissors game
 
-[project 4](): project that calculates weekly sleep debt by comparing actual and ideal sleep hours
+[project 4](https://github.com/vozikkks/js-learning-projects/blob/main/sleep-debt-calculator.js): project that calculates weekly sleep debt by comparing actual and ideal sleep hours
 
-[project 5](): array manipulation - building a Secret message
+[project 5](https://github.com/vozikkks/js-learning-projects/blob/main/secret-message.js): array manipulation - building a Secret message
 
-[project 6](): simple program that converts text into ‘whale talk’ by extracting and emphasizing vowels
+[project 6](https://github.com/vozikkks/js-learning-projects/blob/main/whaleTalk.js): simple program that converts text into ‘whale talk’ by extracting and emphasizing vowels
 
-[project 7](): a simple program to manage and display daily meal specials with a price
+[project 7](https://github.com/vozikkks/js-learning-projects/blob/main/daily-specials-menu.js): a simple program to manage and display daily meal specials with a price
